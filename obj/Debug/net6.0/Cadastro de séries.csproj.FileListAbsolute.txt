@@ -1,0 +1,15 @@
+C:\Users\oNakaitsu\Documents\Csharp\Cadastro de séries\obj\Debug\net6.0\Cadastro de séries.csproj.AssemblyReference.cache
+C:\Users\oNakaitsu\Documents\Csharp\Cadastro de séries\obj\Debug\net6.0\Cadastro de séries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oNakaitsu\Documents\Csharp\Cadastro de séries\obj\Debug\net6.0\Cadastro de séries.AssemblyInfoInputs.cache
+C:\Users\oNakaitsu\Documents\Csharp\Cadastro de séries\obj\Debug\net6.0\Cadastro de séries.AssemblyInfo.cs
+C:\Users\oNakaitsu\Documents\Csharp\Cadastro de séries\obj\Debug\net6.0\Cadastro de séries.csproj.CoreCompileInputs.cache
+C:\Users\oNakaitsu\Documents\Csharp\Cadastro de séries\bin\Debug\net6.0\Cadastro de séries.exe
+C:\Users\oNakaitsu\Documents\Csharp\Cadastro de séries\bin\Debug\net6.0\Cadastro de séries.deps.json
+C:\Users\oNakaitsu\Documents\Csharp\Cadastro de séries\bin\Debug\net6.0\Cadastro de séries.runtimeconfig.json
+C:\Users\oNakaitsu\Documents\Csharp\Cadastro de séries\bin\Debug\net6.0\Cadastro de séries.dll
+C:\Users\oNakaitsu\Documents\Csharp\Cadastro de séries\bin\Debug\net6.0\Cadastro de séries.pdb
+C:\Users\oNakaitsu\Documents\Csharp\Cadastro de séries\obj\Debug\net6.0\Cadastro de séries.dll
+C:\Users\oNakaitsu\Documents\Csharp\Cadastro de séries\obj\Debug\net6.0\refint\Cadastro de séries.dll
+C:\Users\oNakaitsu\Documents\Csharp\Cadastro de séries\obj\Debug\net6.0\Cadastro de séries.pdb
+C:\Users\oNakaitsu\Documents\Csharp\Cadastro de séries\obj\Debug\net6.0\Cadastro de séries.genruntimeconfig.cache
+C:\Users\oNakaitsu\Documents\Csharp\Cadastro de séries\obj\Debug\net6.0\ref\Cadastro de séries.dll
